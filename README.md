@@ -40,8 +40,8 @@ Virtual (vR / xR) Zone
      11 directories, 10 files (Mon Aug  8 02:56:15 JST 2022)
 
 
-Note: url = https://github.com/hohno-46466/vZone
+Note: URL = https://github.com/hohno-46466/vZone
 
-Note: url = git@github.com:hohno-46466/vZone.git
+Note: URL = git@github.com:hohno-46466/vZone.git
 
 -EOF-
